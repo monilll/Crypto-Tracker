@@ -1,4 +1,0 @@
-project is made in streamlit
-
-to run program write in terminal
-"streamlit run file_location/filename.py"
