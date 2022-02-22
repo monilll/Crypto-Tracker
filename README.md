@@ -27,7 +27,7 @@ python setup.py install
 * View total supply
 * View Market cap.
 
-#Illustration Video
+# Illustration Video
 
 https://app.usebubbles.com/fpLQ1jXVVUvRhwLgQtvHrs/comments-on-newtab
 
